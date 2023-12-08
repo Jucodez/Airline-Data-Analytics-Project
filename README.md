@@ -61,6 +61,8 @@ The following inferences were drawn from the analysis process
  
 ### [3] The 5 round-trip routes recommended for investments based on any factors that you choose.
 
+Based on the wide gap in profit margin between these trips and others, I recommend that the company invest in the following:
+
    ![Recommended round-trips](https://github.com/Jucodez/Airline-Data-Analytics-Project/assets/102746691/7496b9ce-fe52-4e43-bd98-3f6f6786f11d)
 
 ### [4] The number of round-trip flights needed to breakeven on the upfront airplane cost for recommended round trip routes.
