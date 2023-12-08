@@ -9,8 +9,8 @@ You have been tasked with analyzing 1Q2019 data to identify:
 2. The 10 most profitable round trip routes (without considering the upfront airplane cost) in the quarter. Along with the profit, show total revenue, total cost, summary values of other key components and total round trip flights in the quarter for the top 10 most profitable routes. Exclude canceled flights from these calculations. 
 3. The 5 round trip routes that you recommend investing in based on any factors that you choose.
 4. The number of round-trip flights it will take to breakeven on the upfront airplane cost for each of the 5 round trip routes that you recommend. Print key summary components for these routes. 
-5. Key Performance Indicators (KPI’s) that you recommend tracking in the future to measure the success of the round-trip routes that you recommend. 
-\
+5. Key Performance Indicators (KPI’s) that you recommend tracking in the future to measure the success of the round-trip routes that you recommend.
+
 \
 You have been given a metadata document and three datasets that you should use to inform your decision: 
 1. Flights dataset: Contains data about available routes from origin to destination. For occupancy, use the data provided in this dataset. 
