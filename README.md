@@ -11,6 +11,7 @@ You have been tasked with analyzing 1Q2019 data to identify:
 4. The number of round-trip flights it will take to breakeven on the upfront airplane cost for each of the 5 round trip routes that you recommend. Print key summary components for these routes. 
 5. Key Performance Indicators (KPI’s) that you recommend tracking in the future to measure the success of the round-trip routes that you recommend. 
 \
+\
 You have been given a metadata document and three datasets that you should use to inform your decision: 
 1. Flights dataset: Contains data about available routes from origin to destination. For occupancy, use the data provided in this dataset. 
 2. Tickets dataset: Ticket prices data (randomly sampled data only as the original dataset data is huge). Consider only round trips in your analysis. 
