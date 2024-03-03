@@ -53,21 +53,21 @@ The following inferences were drawn from the analysis process
 
 ### [1] 10 busiest round-trip routes in terms of number of round-trip flights in the quarter.
 
-   ![Busiest Round-trips](https://github.com/Jucodez/Airline-Data-Analytics-Project/assets/102746691/8ea3297e-e9aa-4bf4-8928-d0534032ffc4)
+   ![10 busiest](https://github.com/Jucodez/Airline-Data-Analytics-Project/assets/102746691/7da8c176-a812-439d-b031-da2c6a13cac1)
            
 ### [2] The 10 most profitable round-trip routes (without considering the upfront airplane cost) in the quarter.
 
-   ![Most Profitable Round-trip](https://github.com/Jucodez/Airline-Data-Analytics-Project/assets/102746691/c8843630-72e1-4da6-be59-16da35d4f024)
+   ![most profitable](https://github.com/Jucodez/Airline-Data-Analytics-Project/assets/102746691/7e33cab7-3ca4-4f9a-809c-e7450403416b)
  
 ### [3] The 5 round-trip routes recommended for investments based on any factors that you choose.
 
 Based on the wide gap in profit margin between these trips and others, I recommend that the company invest in the following:
 
-   ![Recommended round-trips](https://github.com/Jucodez/Airline-Data-Analytics-Project/assets/102746691/7496b9ce-fe52-4e43-bd98-3f6f6786f11d)
+   ![Recommended](https://github.com/Jucodez/Airline-Data-Analytics-Project/assets/102746691/700287c6-af47-4496-80ea-f6c63a20145e)
 
 ### [4] The number of round-trip flights needed to breakeven on the upfront airplane cost for recommended round trip routes.
 
-   ![Breakeven Analysis](https://github.com/Jucodez/Airline-Data-Analytics-Project/assets/102746691/df2116ab-0942-4e21-8169-e67e53225b6e)
+   ![Breakeven](https://github.com/Jucodez/Airline-Data-Analytics-Project/assets/102746691/d9bd8874-3fc9-4ace-ba77-90e14396f47d)
 
 ### [5] Recommended Key Performance Indicators (KPI’s) to be tracked in the future to measure the success of the recommended round-trip routes.
 
